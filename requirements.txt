@@ -1,0 +1,12 @@
+streamlit==1.55.0
+
+langchain==1.2.12
+langgraph==1.1.2
+langgraph-checkpoint-sqlite
+langchain-google-genai==4.2.1
+
+
+
+pydantic
+python-dotenv
+aiosqlite
