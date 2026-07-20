@@ -64,8 +64,7 @@ CB/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ayushkr240/Context-Aware-AI-Assistant.git    )
-cd <repository-name>
+git clone https://github.com/Ayushkr240/Context-Aware-AI-Assistant.git 
 ```
 
 ### 2. Create a virtual environment
